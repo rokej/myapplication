@@ -1,6 +1,6 @@
 apiVersion: v1
 kind: ConfigMap
 metadata:
-  name: myapplication-v3.0.1
+  name: myapplication-v3.0.2
 data:
-  version: "3.0.1"
+  version: "3.0.2"
